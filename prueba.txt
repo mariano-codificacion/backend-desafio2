@@ -1,0 +1,1 @@
+[{"title":"zanahoria","description":"Este es un producto prueba","price":200,"thumbnail":"Sin imagen","code":"abc123","stock":20,"id":1}]{"title":"producto prueba","description":"Este es un producto prueba","price":220,"thumbnail":"Sin imagen","code":"abc124","stock":20,"id":2}]d":2}]
